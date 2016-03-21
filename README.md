@@ -1,1 +1,1 @@
-Boilerplate for html, css, and js projects.
+Boilerplate for building html, css, and js projects.
